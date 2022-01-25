@@ -22,8 +22,8 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ➥ Build Status: v1.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href=''>GitHub - Click here 👈
+
+ FUCK YOU ⛔"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
