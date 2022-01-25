@@ -1,33 +1,29 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My Name is <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+🙋, I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group ....
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓
+
+⚠️More Help Check Help Button Below</b>"""
 
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: Zaute Km
+➥ Creator: Hacker Jr
 ➥ Library: Pyrogram
 ➥ Language: Python 𝟹
 ➥ Data Base: MongoDB
-➥ Bot Server: Railway/Heroku
+➥ Bot Server: Heroku
 ➥ Build Status: v1.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
-
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
-
-<b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+Source: <a href=''>GitHub - Click here 👈
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
